@@ -1,12 +1,8 @@
-## Baekjoon-Algorithm
-
 <html>
   <body>
-    <h1> 기초부터 차근차근 해볼거야 - ! </h1>
+    <h1> Baekjoon-Algorithm </h1>
+    
+    <p>&lt;Level01&gt; 입출력과 사칙연산 = complete</p>
+    <p>&lt;Level02&gt; if문 = complete</p>
   </body>
 </html>
-/*
-Level01> 입출력과 사칙연산 = complete
-  
-Level02> if문 = complete
-*/
